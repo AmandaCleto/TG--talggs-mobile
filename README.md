@@ -41,7 +41,7 @@ situação dos boletos, os itens das compras, acesso ao código de barras e a po
 recebida.
 
 
-## 📷 Gifs Ilustrativas do Projeto:
+## 📷 Gifs Ilustrativos do Projeto:
 ![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/tg-mobile-part1.gif)
 ![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/tg-mobile-part2.gif)
 
